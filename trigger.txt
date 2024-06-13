@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+emqx/emqx:5.7.0 registry.cn-hangzhou.aliyuncs.com/arcloud/emqx:5.7.0
