@@ -1,2 +1,10 @@
 emqx/emqx:5.7.0 registry.cn-hangzhou.aliyuncs.com/arcloud/emqx:5.7.0
 library/nginx registry.cn-hangzhou.aliyuncs.com/arcloud/nginx:latest
+mongo:6.0.2 registry.cn-hangzhou.aliyuncs.com/arcloud/mongo:6.0.2
+redis:7.0.0 registry.cn-hangzhou.aliyuncs.com/arcloud/redis:7.0.0
+bitnami/zookeeper:3.8 registry.cn-hangzhou.aliyuncs.com/arcloud/zookeeper:3.8
+bitnami/kafka:3.5.1 registry.cn-hangzhou.aliyuncs.com/arcloud/kafka:3.5.1
+minio/minio:RELEASE.2024-01-11T07-46-16Z registry.cn-hangzhou.aliyuncs.com/arcloud/minio:RELEASE.2024-01-11T07-46-16Z
+quay.io/coreos/etcd:v3.5.13 registry.cn-hangzhou.aliyuncs.com/arcloud/etcd:v3.5.13
+openim/openim-web-front:release-v3.5.1 registry.cn-hangzhou.aliyuncs.com/arcloud/openim-web-front:release-v3.5.1
+openim/openim-admin-front:release-v1.7 registry.cn-hangzhou.aliyuncs.com/arcloud/openim-admin-front:release-v1.7
