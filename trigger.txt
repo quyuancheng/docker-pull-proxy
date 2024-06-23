@@ -1,5 +1,7 @@
 emqx/emqx:5.7.0 registry.cn-hangzhou.aliyuncs.com/arcloud/emqx:5.7.0
 library/nginx registry.cn-hangzhou.aliyuncs.com/arcloud/nginx:latest
+
+# openIM
 mongo:6.0.2 registry.cn-hangzhou.aliyuncs.com/arcloud/mongo:6.0.2
 redis:7.0.0 registry.cn-hangzhou.aliyuncs.com/arcloud/redis:7.0.0
 bitnami/zookeeper:3.8 registry.cn-hangzhou.aliyuncs.com/arcloud/zookeeper:3.8
